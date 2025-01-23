@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou Philipe Toller Cardoso!  
 
-<!--
-**PhilipeToller/philipetoller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Web Designer Freelancer** | 💻 **Desenvolvedor em Formação** | 📊 **Experiência em Finanças e Vendas**  
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil! Sou apaixonado por criar soluções visuais e funcionais para negócios, combinando criatividade, atenção aos detalhes e foco em resultados. Aqui você encontrará alguns dos meus projetos e contribuições profissionais.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 **Portfólio de Projetos**
+
+### 🌐 **Websites Desenvolvidos**
+1. [Crazyhorse Bodybuilding Centro de Treinamento](https://crazyhorse.esp.br/)  
+2. [Matiotti e Matiotti Advogados Associados](https://matiottiadvogados.com.br/)  
+3. [Bado Piscinas & Lazer](https://badopiscinas.com.br/)  
+4. [Lumasa Papel & Embalagem](https://lumasa.ind.br/)  
+5. [Connect Tutor Language](https://connectutor.com.br/)  
+6. [Nube Sofás](https://nubesofas.com.br/)  
+7. [Gladir Azambuja](https://gladirazambuja.com.br/)  
+
+### 🎨 **Design Gráfico**
+- **Logotipos:**  
+  - Connect Tutor  
+  - Lupa Websites  
+  - Novo Lar (*Rebranding da Bado Piscinas*)  
+
+- **Panfletos:**  
+  - Lumasa Papel & Embalagem  
+
+### 📋 **Landing Pages**
+- **Blan Gôndulas**  
+- **Dora – Assistente de Idiomas**  
+
+---
+
+## 🛠️ **Habilidades Técnicas**
+- **Web Design:** WordPress, Elementor, otimização de sites.  
+- **Design Gráfico:** Criação de logotipos, banners e materiais promocionais.  
+- **SEO On-Page:** Estratégias de otimização para motores de busca.  
+- **Desenvolvimento Web:** HTML, CSS, JavaScript básico.  
+- **Gestão de Projetos:** Organização de tarefas e entrega de soluções completas para clientes.  
+
+---
+
+## 📬 **Entre em Contato**
+
+### **Pessoal**  
+📧 E-mail: [philipetoller@gmail.com](mailto:philipetoller@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/philipetoller](https://www.linkedin.com/in/philipetoller)  
+
+### **Profissional**  
+📧 E-mail: [lupawebsites@gmail.com](mailto:lupawebsites@gmail.com)  
+🌐 Site: [lupawebsites.com.br](https://lupawebsites.com.br)  
+
+---
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. 🚀  
