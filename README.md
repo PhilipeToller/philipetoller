@@ -27,8 +27,8 @@ Bem-vindo ao meu perfil! Sou apaixonado por criar soluções visuais e funcionai
   - Lumasa Papel & Embalagem  
 
 ### 📋 **Landing Pages**
-- [Blan Gôndulas]{https://blangondolas.com.br/orcamento/}
-- [Dora – Assistente de Idiomas]{https://connectutor.com.br/dora/}
+- [Blan Gôndulas](https://blangondolas.com.br/orcamento/)
+- [Dora – Assistente de Idiomas](https://connectutor.com.br/dora/)
 
 ---
 
